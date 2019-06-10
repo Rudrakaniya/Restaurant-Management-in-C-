@@ -47,7 +47,7 @@ public:
             total=total+((p.mainIt3)*450);
         }
 
-//thied
+//third 
 
         if(p.desIt1 > 0 )
         {
